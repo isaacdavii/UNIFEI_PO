@@ -8,13 +8,6 @@ Este repositório contém todo o material de estudo da disciplina de Programaç�
 
 ## 📚 Estrutura do Repositório
 
-### 📖 Material Teórico
-
-- **PDFs das Aulas:** Aulas 00 a 20 (`XDES02_aula*.pdf`)
-- **Material Complementar:**
-  - Apostila CeV Python Mundo 1 ao 3 (`Notion_CeV_Python_Mundo1ao3.pdf`)
-  - Diagrama de Classes - Pousada
-
 ### 💻 Aulas Práticas
 
 #### Aula 08 - Introdução a Classes
