@@ -1,0 +1,14 @@
+Produtos:
+8596 - Coca 999ml - 20
+7485 - Sprite 800ml - 19
+1425 - Whey - 100
+2563 - Chocolate - 8
+4561 - Cachaça - 14
+8025 - Vinho 1,5 L - 85
+
+
+Cupons:
+15996 - Um produto de cada
+85597 - 2 Cocas e 2 Wheys
+86599 - 2 cachaças
+33625 - 1 Vinho, 2 Cachaças, 3 Chocolates e 1 Sprite
